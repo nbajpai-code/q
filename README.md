@@ -294,6 +294,18 @@ Cross-platform library for differentiable programming of quantum computers, quan
 ---
 
 ## Academic Research
+### 🆕 Latest arXiv Research (2026-01-05)
+- **[Qubits and Vacuum Amplitudes](http://arxiv.org/abs/2601.00722v1)** (2026-01-02)
+  > *High-energy colliders, such as the Large Hadron Collider (LHC) at CERN, are genuine quantum machines, so, in line with Richard Feynman's original motivation for Quantum Computing, the scattering proce...*
+- **[Quantum Approaches to the Minimum Edge Multiway Cut Problem](http://arxiv.org/abs/2601.00720v1)** (2026-01-02)
+  > *We investigate the minimum edge multiway cut problem, a fundamental task in evaluating the resilience of telecommunication networks. This study benchmarks the problem across three quantum computing pa...*
+- **[Quantum Simulation of Protein Fragment Electronic Structure Using Moment-based Adaptive Variational Quantum Algorithms](http://arxiv.org/abs/2601.00656v1)** (2026-01-02)
+  > *Background: Understanding electronic interactions in protein active sites is fundamental to drug discovery and enzyme engineering, but remains computationally challenging due to exponential scaling of...*
+- **[Cyberscurity Threats and Defense Mechanisms in IoT network](http://arxiv.org/abs/2601.00556v1)** (2026-01-02)
+  > *The rapid proliferation of Internet of Things (IoT) technologies, projected to exceed 30 billion interconnected devices by 2030, has significantly escalated the complexity of cybersecurity challenges....*
+- **[A Geometrical Design Tool for Building Cost-Effective Layout-Aware n-Bit Quantum Gates Using the Bloch Sphere Approach](http://arxiv.org/abs/2601.00484v1)** (2026-01-01)
+  > *The conventional design technique of any n-bit quantum gate is mainly achieved using unitary matrices multiplication, where n >= 2 and 1 <= m <= n-1 for m target qubits and n-m control qubits. These m...*
+
 
 ### Quantum Supremacy & Advantage
 
