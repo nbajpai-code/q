@@ -294,6 +294,18 @@ Cross-platform library for differentiable programming of quantum computers, quan
 ---
 
 ## Academic Research
+### 🆕 Latest arXiv Research (2026-02-01)
+- **[Designing quantum technologies with a quantum computer](http://arxiv.org/abs/2601.22091v1)** (2026-01-29)
+  > *Interacting spin systems in solids underpin a wide range of quantum technologies, from quantum sensors and single-photon sources to spin-defect-based quantum registers and processors. We develop a qua...*
+- **[Thermodynamics of linear open quantum walks](http://arxiv.org/abs/2601.22064v1)** (2026-01-29)
+  > *Open quantum systems interact with their environment, leading to nonunitary dynamics. We investigate the thermodynamics of linear Open Quantum Walks (OQWs), a class of quantum walks whose dynamics is ...*
+- **[Machine learning with minimal use of quantum computers: Provable advantages in Learning Under Quantum Privileged Information (LUQPI)](http://arxiv.org/abs/2601.22006v1)** (2026-01-29)
+  > *Quantum machine learning (QML) is often listed as a promising candidate for useful applications of quantum computers, in part due to numerous proofs of possible quantum advantages. A central question ...*
+- **[Rapid high-temperature initialisation and readout of spins in silicon with 10 THz photons](http://arxiv.org/abs/2601.21880v1)** (2026-01-29)
+  > *Each cycle of a quantum computation requires a quantum state initialisation. For semiconductor-based quantum platforms, initialisation is typically performed via slow microwave processes and usually r...*
+- **[Error-detectable Universal Control for High-Gain Bosonic Quantum Error Correction](http://arxiv.org/abs/2601.21838v1)** (2026-01-29)
+  > *Protecting quantum information through quantum error correction (QEC) is a cornerstone of future fault-tolerant quantum computation. However, current QEC-protected logical qubits have only achieved co...*
+
 ### 🆕 Latest arXiv Research (2026-01-05)
 - **[Qubits and Vacuum Amplitudes](http://arxiv.org/abs/2601.00722v1)** (2026-01-02)
   > *High-energy colliders, such as the Large Hadron Collider (LHC) at CERN, are genuine quantum machines, so, in line with Richard Feynman's original motivation for Quantum Computing, the scattering proce...*
