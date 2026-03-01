@@ -294,6 +294,18 @@ Cross-platform library for differentiable programming of quantum computers, quan
 ---
 
 ## Academic Research
+### 🆕 Latest arXiv Research (2026-03-01)
+- **[Strengthening security and noise resistance in one-way quantum key distribution protocols through hypercube-based quantum walks](http://arxiv.org/abs/2602.23261v1)** (2026-02-26)
+  > *Quantum Key Distribution (QKD) is a foundational cryptographic protocol that ensures information-theoretic security. However, classical protocols such as BB84, though favored for their simplicity, off...*
+- **[Connecting Quantum Contextuality and Nonlocality](http://arxiv.org/abs/2602.23221v1)** (2026-02-26)
+  > *Quantum theory departs from classical physics in its treatment of correlations, most prominently through the phenomena of contextuality and nonlocality. Once regarded primarily as foundational curiosi...*
+- **[Dequantization Barriers for Guided Stoquastic Hamiltonians](http://arxiv.org/abs/2602.23183v1)** (2026-02-26)
+  > *We construct a probability distribution, induced by the Perron--Frobenius eigenvector of an exponentially large graph, which cannot be efficiently sampled by any classical algorithm, even when provide...*
+- **[Q-Tag: Watermarking Quantum Circuit Generative Models](http://arxiv.org/abs/2602.23085v1)** (2026-02-26)
+  > *Quantum cloud platforms have become the most widely adopted and mainstream approach for accessing quantum computing resources, due to the scarcity and operational complexity of quantum hardware. In th...*
+- **[A quantum feasibility preserving modeling for the min cut problem](http://arxiv.org/abs/2602.22943v1)** (2026-02-26)
+  > *We study the minimum cut problem in weighted undirected graphs using variational quantum algorithms in which only feasible cut configurations are explored. Although minimum cut admits efficient classi...*
+
 ### 🆕 Latest arXiv Research (2026-02-01)
 - **[Designing quantum technologies with a quantum computer](http://arxiv.org/abs/2601.22091v1)** (2026-01-29)
   > *Interacting spin systems in solids underpin a wide range of quantum technologies, from quantum sensors and single-photon sources to spin-defect-based quantum registers and processors. We develop a qua...*
