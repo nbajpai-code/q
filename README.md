@@ -294,6 +294,18 @@ Cross-platform library for differentiable programming of quantum computers, quan
 ---
 
 ## Academic Research
+### 🆕 Latest arXiv Research (2026-04-01)
+- **[Efficient Parallel Compilation and Profiling of Quantum Circuits at Large Scales](http://arxiv.org/abs/2603.29598v1)** (2026-03-31)
+  > *Compiling quantum circuits is a major bottleneck in quantum computing, and given the scale required in a few years, is likely to become infeasibly long. Techniques to reduce compilation time for quant...*
+- **[Logical-to-Physical Compilation for Reducing Depth in Distributed Quantum Systems](http://arxiv.org/abs/2603.29536v1)** (2026-03-31)
+  > *Quantum computing is expected to become a foundational technology for solving problems that exceed the capabilities of classical systems. As quantum algorithms and hardware technologies continue to ad...*
+- **[YZ-plane measurement-based quantum computation: Universality and Parity Architecture implementation](http://arxiv.org/abs/2603.29379v1)** (2026-03-31)
+  > *We define the class of register-logic graphs and prove that any uniformly deterministic measurement-based quantum computation (MBQC) where the inputs coincide with the outputs must be driven on such g...*
+- **[Change in bit-flip times of Kerr parametric oscillators caused by their interactions](http://arxiv.org/abs/2603.29308v1)** (2026-03-31)
+  > *We experimentally investigate how interactions between Kerr parametric oscillators (KPOs) degrade their bit-flip times, where a bit flip is defined as a transition between the two degenerate ground st...*
+- **[Oxide-nitride heteroepitaxy for low-loss dielectrics in superconducting quantum circuits](http://arxiv.org/abs/2603.29065v1)** (2026-03-30)
+  > *Superconducting qubits show great promise for the realization of fault-tolerant quantum computing, but lossy, amorphous dielectrics limit current technology. Identifying highly crystalline and stoichi...*
+
 ### 🆕 Latest arXiv Research (2026-03-01)
 - **[Strengthening security and noise resistance in one-way quantum key distribution protocols through hypercube-based quantum walks](http://arxiv.org/abs/2602.23261v1)** (2026-02-26)
   > *Quantum Key Distribution (QKD) is a foundational cryptographic protocol that ensures information-theoretic security. However, classical protocols such as BB84, though favored for their simplicity, off...*
