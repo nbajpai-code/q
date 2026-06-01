@@ -294,6 +294,18 @@ Cross-platform library for differentiable programming of quantum computers, quan
 ---
 
 ## Academic Research
+### 🆕 Latest arXiv Research (2026-06-01)
+- **[More efficient Clifford+T synthesis for small-angle rotations and application to Trotterization](http://arxiv.org/abs/2605.31544v1)** (2026-05-29)
+  > *Clifford+T synthesis of rotation gates is an important routine in fault-tolerant quantum compilation. While Clifford+T synthesis is scalable, it has a high overhead of tens of T gates per rotation in ...*
+- **[(Non-)Traversable Quantum Phase Transitions](http://arxiv.org/abs/2605.31472v1)** (2026-05-29)
+  > *Quantum phase transitions manifest as an abrupt change in the ground state of a many-body system; yet it is an open question whether this sudden change necessarily precludes a continuous dynamical con...*
+- **[Intrinsic locality dimension of quantum codes](http://arxiv.org/abs/2605.31441v1)** (2026-05-29)
+  > *Quantum error-correcting codes are a cornerstone of quantum computing, with broad and profound connections to physics and mathematics. In this work, we introduce the notion of intrinsic locality dimen...*
+- **[Fidelity bounds for spin-dependent kicks with pulsed lasers](http://arxiv.org/abs/2605.31409v1)** (2026-05-29)
+  > *Excitation of trapped-ion hyperfine qubits with fast optical Raman pulses enables faster-than-trap-period entangling gates with qubits of long coherence time for practical quantum computation. Achievi...*
+- **[Sharp periodic Ge concentration modulations beyond the conduction band valley wavevector $k_0$ in nuclear spin-free Si quantum wells](http://arxiv.org/abs/2605.31358v1)** (2026-05-29)
+  > *Periodic Ge modulations within strained Si quantum wells in SiGe heterostructures offer a route to deterministically enhance conduction-band valley splitting in Si, a key requirement for scalable spin...*
+
 ### 🆕 Latest arXiv Research (2026-04-01)
 - **[Efficient Parallel Compilation and Profiling of Quantum Circuits at Large Scales](http://arxiv.org/abs/2603.29598v1)** (2026-03-31)
   > *Compiling quantum circuits is a major bottleneck in quantum computing, and given the scale required in a few years, is likely to become infeasibly long. Techniques to reduce compilation time for quant...*
