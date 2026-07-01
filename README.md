@@ -294,6 +294,18 @@ Cross-platform library for differentiable programming of quantum computers, quan
 ---
 
 ## Academic Research
+### 🆕 Latest arXiv Research (2026-07-01)
+- **[Simulation of Two-qubit Gate Variability and Fidelity of Spin Qubits Built on Nanosheet Technology](http://arxiv.org/abs/2606.32030v1)** (2026-06-30)
+  > *Silicon spin qubits are promising for large-scale quantum-computer integration because they can fully leverage the well-developed semiconductor infrastructure. However, the low fidelity of two-qubit e...*
+- **[An efficient Pauli decomposition algorithm for structured matrices](http://arxiv.org/abs/2606.31952v1)** (2026-06-30)
+  > *Decomposing classical matrices into linear combinations of Pauli strings is a major bottleneck for end-to-end implementations of near-term quantum algorithms. In this work, we consider a promise versi...*
+- **[Electrons on Helium and Entangled Quantum Sensors for Particle Physics](http://arxiv.org/abs/2606.31910v1)** (2026-06-30)
+  > *Quantum sensors that harness quantum coherence and entanglement are emerging as powerful tools in many fields, including particle physics, promising unprecedented sensitivity beyond classical detectio...*
+- **[Lazy-Move Compilation for Neutral-Atom Quantum Computers via a Buffer-Relay Fabric](http://arxiv.org/abs/2606.31833v1)** (2026-06-30)
+  > *Neutral atom quantum computing offers strong scalability and flexible qubit connectivity, but most existing compilation flows rely on reconfigurable atom arrays that physically shuttle qubit atoms dur...*
+- **[Correlation is magic in electronic structure Hamiltonians](http://arxiv.org/abs/2606.31799v1)** (2026-06-30)
+  > *The gate and qubit requirements of quantum computations of electronic structure have been extensively studied. However, the quantum resources present in electronic ground states, as measured by entang...*
+
 ### 🆕 Latest arXiv Research (2026-06-01)
 - **[More efficient Clifford+T synthesis for small-angle rotations and application to Trotterization](http://arxiv.org/abs/2605.31544v1)** (2026-05-29)
   > *Clifford+T synthesis of rotation gates is an important routine in fault-tolerant quantum compilation. While Clifford+T synthesis is scalable, it has a high overhead of tens of T gates per rotation in ...*
