@@ -294,6 +294,18 @@ Cross-platform library for differentiable programming of quantum computers, quan
 ---
 
 ## Academic Research
+### 🆕 Latest arXiv Research (2026-08-01)
+- **[Logical computation with canonical lifted product codes](http://arxiv.org/abs/2607.28605v1)** (2026-07-30)
+  > *High-rate quantum low-density parity-check (qLDPC) codes encode many logical qubits with low physical-qubit overhead, but realizing efficient fault-tolerant computation on such dense encodings remains...*
+- **[Quantum Fidelity-per-Cost: A Metric for Evaluation of Quantum Computing Systems](http://arxiv.org/abs/2607.28572v1)** (2026-07-30)
+  > *Cloud-accessible quantum computing has made hardware comparison not only a physics benchmark but also a practical purchasing decision. Cost-aware comparison of quantum computers remains underexplored ...*
+- **[Benchmarking Quantum Simulations of the Lipkin-Meshkov-Glick Model Using Large Tensor Networks](http://arxiv.org/abs/2607.28570v1)** (2026-07-30)
+  > *As quantum computing matures, it is critical to benchmark its real-world problem solving performance against competitive classical methods, such as tensor networks. In this work, we leverage the Densi...*
+- **[MQSS Client: Interface for Decoupling Quantum Programming Interfaces](http://arxiv.org/abs/2607.28563v1)** (2026-07-30)
+  > *Quantum Computing (QC) is an emerging technology that requires customized tools, such as software stacks and programming interfaces. However, currently, the tools are generally tightly coupled and exh...*
+- **[Quantum Computing Enabled ab initio Molecular Dynamics Simulations](http://arxiv.org/abs/2607.28548v1)** (2026-07-30)
+  > *We demonstrate a quantum-classical workflow for ab initio molecular dynamics (AIMD) in which quantum measurements from a chemistry-inspired LUCJ ansatz are post-processed using Sample-based Quantum Di...*
+
 ### 🆕 Latest arXiv Research (2026-07-01)
 - **[Simulation of Two-qubit Gate Variability and Fidelity of Spin Qubits Built on Nanosheet Technology](http://arxiv.org/abs/2606.32030v1)** (2026-06-30)
   > *Silicon spin qubits are promising for large-scale quantum-computer integration because they can fully leverage the well-developed semiconductor infrastructure. However, the low fidelity of two-qubit e...*
