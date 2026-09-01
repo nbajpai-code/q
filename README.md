@@ -294,6 +294,18 @@ Cross-platform library for differentiable programming of quantum computers, quan
 ---
 
 ## Academic Research
+### 🆕 Latest arXiv Research (2026-09-01)
+- **[Trade-off between Cooling-Step Count and Geometric Implementation Cost in Non-Markovian Algorithmic Cooling](http://arxiv.org/abs/2608.30660v1)** (2026-08-31)
+  > *Quantum cooling is important for reliable quantum computation but involves a trade-off between cooling performance and implementation resources. Although reservoir memory can improve particular aspect...*
+- **[First-principle predictions of fragmentation functions via quantum computing](http://arxiv.org/abs/2608.30375v1)** (2026-08-31)
+  > *We report on an algorithm to compute fragmentation functions from the first principles Quantum Chromodynamics (QCD) Hamiltonian quantized in Light-Front Gauge, opening a path for digital quantum compu...*
+- **[Perfect state transfer on Cayley graphs over dihedral groups: A complete and practical characterization](http://arxiv.org/abs/2608.30347v1)** (2026-08-31)
+  > *Perfect state transfer on graphs has attracted extensive attention due to its application in quantum information and quantum computation. Explicit characterizations of connection sets admitting perfec...*
+- **[Parametric amplification in a Kerr Oscillator based on Ne FIB Nanobridges](http://arxiv.org/abs/2608.29435v1)** (2026-08-29)
+  > *Superconducting circuits play a crucial role in the advancement of quantum computing and quantum sensing. Typically such circuits require the presence of a non-linear element, where the engineered anh...*
+- **[The Emptiness Problem for Quantum Finite Automata with Classical States](http://arxiv.org/abs/2608.29319v1)** (2026-08-29)
+  > *Quantum Finite Automata with Classical states (QFACs) are nondeterministic finite automata over a finite alphabet of quantum operations. We study expressiveness of this model on finite words and the c...*
+
 ### 🆕 Latest arXiv Research (2026-08-01)
 - **[Logical computation with canonical lifted product codes](http://arxiv.org/abs/2607.28605v1)** (2026-07-30)
   > *High-rate quantum low-density parity-check (qLDPC) codes encode many logical qubits with low physical-qubit overhead, but realizing efficient fault-tolerant computation on such dense encodings remains...*
