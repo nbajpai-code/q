@@ -294,6 +294,18 @@ Cross-platform library for differentiable programming of quantum computers, quan
 ---
 
 ## Academic Research
+### 🆕 Latest arXiv Research (2026-10-01)
+- **[Efficient Calculation of Equilibrium Correlation Functions](http://arxiv.org/abs/2609.40349v1)** (2026-09-30)
+  > *A majority of measurable dynamic quantities of a physical system is described as an equilibrium correlation function of the form $G_{AB}(t-t') = \left<A(t)B(t')\right>$, where $t'$ represents the impa...*
+- **[A Noise Operator Approach to Quantum Query Complexity and Time-Space Tradeoff Lower Bounds](http://arxiv.org/abs/2609.40334v1)** (2026-09-30)
+  > *Time and space (memory) are two of the most important measures of cost in computation, even more so for quantum computation. In quantum computation our tools for proving unconditional tradeoffs betwee...*
+- **[Fast Quantum Algorithms for Learning Linear Threshold Functions](http://arxiv.org/abs/2609.40331v1)** (2026-09-30)
+  > *Linear threshold functions are $f_{w,θ}(x)=\text{sign}(\langle x,w \rangle -θ)$, where the weight vector $w\in\mathbb{R}^n$ is a unit vector, $θ\in\mathbb R$ is a threshold, and typically $x\in\mathbb...*
+- **[Exponential quantum speedup for $\mathbb{F}_3^n$-Subset-Sum? Or, rigorous classical algorithms for Binary-Error LWE](http://arxiv.org/abs/2609.40321v1)** (2026-09-30)
+  > *We study vector subset sum over $\mathbb{F}_3^n$: given $m$ random vectors from $\mathbb{F}_3^n$, find a nonempty subset that sums to zero; the smaller $m$, the more difficult it is to find such a sub...*
+- **[Quantum Sampling of Random Spanning Trees via Amortized Data Structures](http://arxiv.org/abs/2609.40314v1)** (2026-09-30)
+  > *We present a quantum algorithm that generates a uniform superposition over the spanning trees of a graph -- also known as a q-sample -- using only a sub-linear number of queries to the graph. This goe...*
+
 ### 🆕 Latest arXiv Research (2026-09-01)
 - **[Trade-off between Cooling-Step Count and Geometric Implementation Cost in Non-Markovian Algorithmic Cooling](http://arxiv.org/abs/2608.30660v1)** (2026-08-31)
   > *Quantum cooling is important for reliable quantum computation but involves a trade-off between cooling performance and implementation resources. Although reservoir memory can improve particular aspect...*
